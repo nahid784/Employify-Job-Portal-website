@@ -1,2 +1,2 @@
-# Employify Job Portal
- 
+# Employify Job Portal website using HTML-CSS_JS
+Employify Job Portal is a web-based platform designed for job seekers and employers, built using HTML, CSS, and JavaScript. The website is fully mobile-responsive and offers a user-friendly interface with core functionalities like job postings, applications, and dynamic interactions. This repository showcases the responsive design and essential features that make it an effective platform for connecting job seekers and employers.
